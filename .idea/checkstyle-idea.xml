@@ -3,15 +3,17 @@
   <component name="CheckStyle-IDEA" serialisationVersion="2">
     <checkstyleVersion>13.4.2</checkstyleVersion>
     <scanScope>JavaOnly</scanScope>
+    <suppressErrors>true</suppressErrors>
+    <copyLibs>true</copyLibs>
     <option name="thirdPartyClasspath" />
     <option name="activeLocationIds">
-      <option value="cd6ee7d5-f2ef-47e7-a80f-557c6efe4876" />
+      <option value="cb6ffddb-99b7-471e-aaea-d34e9807ac78" />
     </option>
     <option name="locations">
       <list>
         <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
         <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
-        <ConfigurationLocation id="cd6ee7d5-f2ef-47e7-a80f-557c6efe4876" type="LOCAL_FILE" scope="All" description="CSC207 Checks">$PROJECT_DIR$/mystyle.xml</ConfigurationLocation>
+        <ConfigurationLocation id="cb6ffddb-99b7-471e-aaea-d34e9807ac78" type="LOCAL_FILE" scope="All" description="checkstyle">C:\Users\tfkab\IdeaProjects\Lab3-Country-Name-Translation\mystyle.xml</ConfigurationLocation>
       </list>
     </option>
   </component>
